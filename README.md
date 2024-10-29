@@ -4,7 +4,8 @@ Gloria Kemunto![Screenshot 2024-10-09 123922](https://github.com/user-attachment
 ![Screenshot 2024-10-09 124035](https://github.com/user-attachments/assets/e6ecb44e-2364-4c00-b486-e93cea779b12)
 ![Screenshot 2024-10-09 124109](https://github.com/user-attachments/assets/65ed4eba-3566-40ba-9150-ab36db57ff69)
 ![Screenshot 2024-10-09 124144](https://github.com/user-attachments/assets/ae7f85a6-68b5-4ed1-b18a-76d9af4bd60e)
-
+NOTES: For the codes to run, we must first run and import the librabries. Research about the libraries needed for the work and import all of them.
+To visualize your data, a 'display' or show code must be employed.
 Part 2: Day 2
 ![Screenshot 2024-10-10 153934](https://github.com/user-attachments/assets/573d7ab0-9c85-4027-8202-e6e520868e1b)
 ![Screenshot 2024-10-10 153908](https://github.com/user-attachments/assets/bf04318c-fd78-474e-ab76-b5d7b6c7cdfd)
