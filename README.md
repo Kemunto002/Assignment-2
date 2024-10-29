@@ -1,4 +1,9 @@
 # Assignment-2
+General flow:
+Import libraries, load data, Standardize the data, split data (Training the model first), make predictions, visualize and finaly evaluate your model.
+Summary of data result and interpreteation: Part 1:
+Coding allowed for unsupervised (Linear and logistic regression, Decision trees and Random forests) as well as K-means clustering supervised analysis. For the wine quality data, Decision trees model upon evaluation was 96% accurate while logistic regression 74%.
+Part 2: All the prediction models were above 90% accurate including accuray in identifying my face in the image.
 Gloria Kemunto![Screenshot 2024-10-09 123922](https://github.com/user-attachments/assets/b712139d-1e4f-4203-b9e6-4fdaff9a0e42)
 ![Screenshot 2024-10-09 123949](https://github.com/user-attachments/assets/15a12021-b82e-478e-9234-f3d87b9ef73a)
 ![Screenshot 2024-10-09 124035](https://github.com/user-attachments/assets/e6ecb44e-2364-4c00-b486-e93cea779b12)
